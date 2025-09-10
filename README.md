@@ -1,6 +1,6 @@
 # Simple Java Project with New Relic Observability
 
-This project demonstrates **how to instrument a Java Servlet with New Relic APM** and track custom metrics for observability purposes. It is based on the Buddy Works sample project ([source](https://github.com/buddy-works/simple-java-project)) and can be deployed locally or on platforms like Heroku.
+This project demonstrates **how to instrument a Java Servlet with New Relic APM** and track custom metrics for observability purposes. It is based on the Buddy Works sample project ([buddy-works](https://github.com/buddy-works/simple-java-project)) and can be deployed locally or on platforms like Heroku.
 
 ---
 
